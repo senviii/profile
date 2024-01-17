@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saanvi Mahika, a Computer Science sophomore at SRMIST 🚀 </h1>
+<h2 align="center">Hi 👋, I'm Saanvi Mahika, a Computer Science sophomore at SRMIST 🚀 </h1>
 <h3 align="center">Currently I am learning FrontEnd development.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcute-avocado-cat-with-smile-hello-icon-isolated-white-background-kawaii
-  style_33715331.htm&psig=AOvVaw2J8k3bLPsGAu47YFT6NCy8&ust=1705579742776000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDv8emx5IMDFQAAAAAdAAAAABAD">
 
 - 📝 I regularly write articles on [https://medium.com/@mahikasaanvi](https://medium.com/@mahikasaanvi)
 
