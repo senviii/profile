@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://s6.gifyu.com/images/S60Dg.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ## <div align="center">I'm Saanvi, a computer science sophomore at SRMIST🚀</div>  
   
